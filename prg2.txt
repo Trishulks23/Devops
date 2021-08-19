@@ -2,3 +2,5 @@ First text added in PRG2
 PROFIT-Correction
 PROFIT-Loss
 Made changes in before rename
+added to change the date
+added to change the date. Fixed the type
