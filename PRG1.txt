@@ -1,2 +1,3 @@
 First text added
 Change2 for merge conflict
+Change1 for merge conflict
